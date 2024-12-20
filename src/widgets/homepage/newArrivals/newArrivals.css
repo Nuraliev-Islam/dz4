@@ -1,0 +1,33 @@
+.arrivalCont{
+    width: 100%;
+    border-bottom: 1px solid #0000001A;
+}
+
+#viewer{
+    width: 218px;
+    height: 52px;
+    padding: 16px 54px;
+    margin: 36px 515px;
+    gap: 12px;
+    border-radius: 62px;
+    border: 1px solid #0000001A;
+    background-color: white;
+    margin-bottom: 70px;
+}
+
+#newarrivals{
+    text-align: center;
+    margin: 72px 55px ;
+    font-family: 'Integral CF Regular';
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 57px;
+}
+
+.arrivalsCont .flexItem{
+    justify-content: center;
+    display: flex;
+    gap: 20px;
+}
+
+
